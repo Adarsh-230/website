@@ -1,0 +1,25 @@
+h1{
+    color: rgb(0, 110, 255);
+    background-color: rgb(0, 221, 255);
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 30px ;
+font-style: italic;
+font-weight: 100;
+text-align:justify;
+
+}
+ .nt{
+    color: rgb(218, 32, 116);
+}
+.part{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 200%;
+    font-weight: 25000;
+    color: darkturquoise;
+}
+body{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url(pexels-pixabay-259915.jpg);
+    background-size: cover;
+}
